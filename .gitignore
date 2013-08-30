@@ -8,3 +8,8 @@ __history
 *.exe
 *.dll
 bin/*
+*.bak
+*.o
+*.obj
+*.ppu
+*.compiled

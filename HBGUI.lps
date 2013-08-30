@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="HBGUI.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="HBGUI"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmHBMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmhbmain_unit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="128"/>
+        <CursorPos X="53" Y="139"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\popupnotifier.pas"/>
+        <UnitName Value="PopupNotifier"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="326"/>
+        <CursorPos X="1" Y="337"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="C:\lazarus\lcl\popupnotifier.pas"/>
+        <Caret Line="337" Column="1" TopLine="326"/>
+      </Position1>
+      <Position2>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="62" Column="1" TopLine="51"/>
+      </Position2>
+      <Position3>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="63" Column="1" TopLine="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="65" Column="1" TopLine="51"/>
+      </Position4>
+      <Position5>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="109" Column="1" TopLine="99"/>
+      </Position5>
+      <Position6>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="112" Column="1" TopLine="99"/>
+      </Position6>
+      <Position7>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="89" Column="1" TopLine="79"/>
+      </Position7>
+      <Position8>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="55" Column="20" TopLine="51"/>
+      </Position8>
+      <Position9>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="56" Column="1" TopLine="51"/>
+      </Position9>
+      <Position10>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="65" Column="1" TopLine="51"/>
+      </Position10>
+      <Position11>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="56" Column="1" TopLine="51"/>
+      </Position11>
+      <Position12>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="57" Column="1" TopLine="51"/>
+      </Position12>
+      <Position13>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="58" Column="1" TopLine="51"/>
+      </Position13>
+      <Position14>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="59" Column="1" TopLine="51"/>
+      </Position14>
+      <Position15>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="65" Column="1" TopLine="51"/>
+      </Position15>
+      <Position16>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="57" Column="1" TopLine="52"/>
+      </Position16>
+      <Position17>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="74" Column="5" TopLine="55"/>
+      </Position17>
+      <Position18>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="127" Column="21" TopLine="121"/>
+      </Position18>
+      <Position19>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="128" Column="21" TopLine="122"/>
+      </Position19>
+      <Position20>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="130" Column="21" TopLine="124"/>
+      </Position20>
+      <Position21>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="146" Column="3" TopLine="130"/>
+      </Position21>
+      <Position22>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="153" Column="3" TopLine="137"/>
+      </Position22>
+      <Position23>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="123" Column="25" TopLine="121"/>
+      </Position23>
+      <Position24>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="64" Column="23" TopLine="58"/>
+      </Position24>
+      <Position25>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="109" Column="26" TopLine="100"/>
+      </Position25>
+      <Position26>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="135" Column="66" TopLine="118"/>
+      </Position26>
+      <Position27>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="137" Column="32" TopLine="121"/>
+      </Position27>
+      <Position28>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="132" Column="97" TopLine="121"/>
+      </Position28>
+      <Position29>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="125" Column="35" TopLine="121"/>
+      </Position29>
+      <Position30>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="154" Column="28" TopLine="138"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
