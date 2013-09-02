@@ -4,12 +4,17 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="3">
+    <Units Count="8">
       <Unit0>
         <Filename Value="HBGUI.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="HBGUI"/>
-        <UsageCount Value="20"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="13"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="frmhbmain_unit.pas"/>
@@ -18,149 +23,199 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="frmhbmain_unit"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="128"/>
-        <CursorPos X="53" Y="139"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="108"/>
+        <CursorPos X="15" Y="117"/>
+        <UsageCount Value="31"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
+        <Filename Value="hbrule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbrule"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="32"/>
+        <CursorPos X="67" Y="51"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
         <Filename Value="C:\lazarus\lcl\popupnotifier.pas"/>
         <UnitName Value="PopupNotifier"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="6"/>
         <WindowIndex Value="0"/>
         <TopLine Value="326"/>
         <CursorPos X="1" Y="337"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="16"/>
         <Loaded Value="True"/>
-      </Unit2>
+      </Unit3>
+      <Unit4>
+        <Filename Value="hbaction.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbaction"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8"/>
+        <CursorPos X="57" Y="23"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="hbconfig.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbconfig"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="37"/>
+        <CursorPos X="1" Y="50"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="224"/>
+        <CursorPos X="10" Y="237"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1276"/>
+        <CursorPos X="19" Y="1290"/>
+        <UsageCount Value="9"/>
+      </Unit7>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
-        <Filename Value="C:\lazarus\lcl\popupnotifier.pas"/>
-        <Caret Line="337" Column="1" TopLine="326"/>
+        <Filename Value="frmhbmain_unit.pas"/>
+        <Caret Line="77" Column="28" TopLine="63"/>
       </Position1>
       <Position2>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="62" Column="1" TopLine="51"/>
+        <Caret Line="79" Column="28" TopLine="65"/>
       </Position2>
       <Position3>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="63" Column="1" TopLine="51"/>
+        <Caret Line="156" Column="38" TopLine="152"/>
       </Position3>
       <Position4>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="65" Column="1" TopLine="51"/>
+        <Caret Line="190" Column="27" TopLine="174"/>
       </Position4>
       <Position5>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="109" Column="1" TopLine="99"/>
+        <Caret Line="180" Column="3" TopLine="174"/>
       </Position5>
       <Position6>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="112" Column="1" TopLine="99"/>
+        <Caret Line="196" Column="3" TopLine="180"/>
       </Position6>
       <Position7>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="89" Column="1" TopLine="79"/>
+        <Caret Line="130" Column="22" TopLine="113"/>
       </Position7>
       <Position8>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="55" Column="20" TopLine="51"/>
+        <Filename Value="hbaction.pas"/>
+        <Caret Line="24" Column="21" TopLine="4"/>
       </Position8>
       <Position9>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="56" Column="1" TopLine="51"/>
+        <Filename Value="hbaction.pas"/>
+        <Caret Line="10" Column="1" TopLine="1"/>
       </Position9>
       <Position10>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="65" Column="1" TopLine="51"/>
+        <Filename Value="hbaction.pas"/>
+        <Caret Line="23" Column="66" TopLine="8"/>
       </Position10>
       <Position11>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="56" Column="1" TopLine="51"/>
+        <Caret Line="55" Column="22" TopLine="50"/>
       </Position11>
       <Position12>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="57" Column="1" TopLine="51"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="11" Column="1" TopLine="1"/>
       </Position12>
       <Position13>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="58" Column="1" TopLine="51"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="17" Column="11" TopLine="1"/>
       </Position13>
       <Position14>
         <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="59" Column="1" TopLine="51"/>
+        <Caret Line="117" Column="15" TopLine="108"/>
       </Position14>
       <Position15>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="65" Column="1" TopLine="51"/>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.pas"/>
+        <Caret Line="169" Column="10" TopLine="163"/>
       </Position15>
       <Position16>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="57" Column="1" TopLine="52"/>
+        <Filename Value="hbrule.pas"/>
+        <Caret Line="43" Column="42" TopLine="23"/>
       </Position16>
       <Position17>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="74" Column="5" TopLine="55"/>
+        <Filename Value="hbrule.pas"/>
+        <Caret Line="30" Column="12" TopLine="23"/>
       </Position17>
       <Position18>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="127" Column="21" TopLine="121"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="15" Column="102" TopLine="7"/>
       </Position18>
       <Position19>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="128" Column="21" TopLine="122"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="33" Column="15" TopLine="23"/>
       </Position19>
       <Position20>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="130" Column="21" TopLine="124"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="43" Column="13" TopLine="23"/>
       </Position20>
       <Position21>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="146" Column="3" TopLine="130"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="33" Column="71" TopLine="23"/>
       </Position21>
       <Position22>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="153" Column="3" TopLine="137"/>
+        <Filename Value="hbrule.pas"/>
+        <Caret Line="38" Column="35" TopLine="26"/>
       </Position22>
       <Position23>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="123" Column="25" TopLine="121"/>
+        <Filename Value="hbrule.pas"/>
+        <Caret Line="40" Column="37" TopLine="26"/>
       </Position23>
       <Position24>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="64" Column="23" TopLine="58"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="48" Column="31" TopLine="33"/>
       </Position24>
       <Position25>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="109" Column="26" TopLine="100"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="47" Column="1" TopLine="33"/>
       </Position25>
       <Position26>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="135" Column="66" TopLine="118"/>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.pas"/>
+        <Caret Line="169" Column="10" TopLine="225"/>
       </Position26>
       <Position27>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="137" Column="32" TopLine="121"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="47" Column="115" TopLine="33"/>
       </Position27>
       <Position28>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="132" Column="97" TopLine="121"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="48" Column="37" TopLine="33"/>
       </Position28>
       <Position29>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="125" Column="35" TopLine="121"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="46" Column="17" TopLine="36"/>
       </Position29>
       <Position30>
-        <Filename Value="frmhbmain_unit.pas"/>
-        <Caret Line="154" Column="28" TopLine="138"/>
+        <Filename Value="hbconfig.pas"/>
+        <Caret Line="24" Column="28" TopLine="16"/>
       </Position30>
     </JumpHistory>
   </ProjectSession>

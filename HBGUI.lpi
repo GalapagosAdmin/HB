@@ -35,7 +35,7 @@
         <PackageName Value="LCL"/>
       </Item1>
     </RequiredPackages>
-    <Units Count="2">
+    <Units Count="5">
       <Unit0>
         <Filename Value="HBGUI.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -49,6 +49,21 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="frmhbmain_unit"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="hbrule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbrule"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="hbaction.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbaction"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="hbconfig.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hbconfig"/>
+      </Unit4>
     </Units>
   </ProjectOptions>
   <CompilerOptions>

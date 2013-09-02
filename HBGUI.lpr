@@ -7,7 +7,7 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, frmhbmain_unit
+  Forms, frmhbmain_unit, hbrule, hbaction, hbconfig
   { you can add units after this };
 
 {$R *.res}

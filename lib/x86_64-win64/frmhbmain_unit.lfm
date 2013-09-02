@@ -19,6 +19,15 @@ object frmHBMain: TfrmHBMain
     OnChange = cbEnabledChange
     TabOrder = 0
   end
+  object bbNotificationTest: TBitBtn
+    Left = 6
+    Height = 30
+    Top = 62
+    Width = 107
+    Caption = 'Test Notification'
+    OnClick = bbNotificationTestClick
+    TabOrder = 1
+  end
   object ActionList1: TActionList
     left = 32
     top = 104
@@ -29,6 +38,14 @@ object frmHBMain: TfrmHBMain
     object acExitApplication: TAction
       Caption = 'Exit HB'
       OnExecute = acExitApplicationExecute
+    end
+    object Action1: TAction
+      Caption = 'Action1'
+      OnExecute = Action1Execute
+    end
+    object acPopupTimerHide: TAction
+      Caption = 'acPopupTimerHide'
+      OnExecute = acPopupTimerHideExecute
     end
   end
   object TrayIcon1: TTrayIcon
@@ -93,9 +110,9 @@ object frmHBMain: TfrmHBMain
     left = 32
     top = 168
   end
-  object IdleTimer1: TIdleTimer
+  object ScanTimer: TIdleTimer
     Enabled = False
-    OnTimer = IdleTimer1Timer
+    OnTimer = ScanTimerTimer
     left = 240
     top = 104
   end
@@ -106,5 +123,12 @@ object frmHBMain: TfrmHBMain
       Action = acExitApplication
       OnClick = MenuItem1Click
     end
+  end
+  object pnTimer: TIdleTimer
+    Enabled = False
+    Interval = 2000
+    OnTimer = pnTimerTimer
+    left = 240
+    top = 56
   end
 end
