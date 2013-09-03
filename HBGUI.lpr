@@ -7,15 +7,15 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, frmhbmain_unit, hbrule, hbaction, hbconfig
-  { you can add units after this };
+  Forms, frmhbsettings_unit, hbrule, hbaction, hbconfig, frmhbmain_unit;
 
 {$R *.res}
 
 begin
   RequireDerivedFormResource := True;
   Application.Initialize;
-  Application.CreateForm(TfrmHBMain, frmHBMain);
+  Application.CreateForm(TFrmHBSettings, FrmHBSettings);
+  Application.CreateForm(TFrmHBMain, FrmHBMain);
   Application.Run;
 end.
 
