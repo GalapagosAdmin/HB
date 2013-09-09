@@ -47,6 +47,7 @@ Var
 //  DirectoryCount:Integer;
   SectionName:UTF8String;
   ThisRule:Integer;
+  ThisDir:Integer;
 
 implementation
 
@@ -96,6 +97,14 @@ Initialization
   HBRuleList[ThisRule].ActionType := GetConfigC(SectionName, 'ActionType', 'M');
   HBRuleList[ThisRule].DestDirectory := GetConfig(SectionNAme, 'DestDirectory', 'C:\Users\nsilva\Documents\AeroFS\Drop\');
 
+  DirCount := 1;
+  SetLength(HBDirList,DirCount);
+  ThisDir := 0;
+  SectionName := 'Dir' + IntToStr(ThisRule);
+  HBDirList[ThisDir].DisplayName := GetConfig(SectionName, 'DisplayName', 'Downloads');
+  HBDirList[ThisDir].PhysicalName := GetConfig(SectionName, 'PhysicalName', 'C:\Users\nsilva\Downloads');
+
+
 Finalization
  SetConfig(SectionName, 'Name', HBRuleList[ThisRule].Name);
  SetConfig(SectionName, 'SourceDirectory', HBRuleList[ThisRule].SourceDirectory);
@@ -104,5 +113,6 @@ Finalization
  SetConfig(SectionName, 'ActionType', HBRuleList[ThisRule].ActionType);
  SetConfig(SectionName, 'DestDirectory', HBRuleList[ThisRule].DestDirectory);
 
+ SetConfig
 end.
 
